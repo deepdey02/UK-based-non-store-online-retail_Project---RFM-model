@@ -1,0 +1,8 @@
+Problem-solving tasks, requirements & dependencies:
+ 
+Calculated the: a)Recency (R), b) Frequency (F), c) Monetary value (M) for each customer based on the given dataset.
+Calculate RFM scores of each customer, will get a note between 1 and 5 for each parameter for Recency(R), Frequency (F), and Monetary value(M).	
+Visualize the RFM segments and conclude your findings of RFM analysis and suggest some strategies for it. \
+
+
+Requirements have been mentioned for the necessary libraries
